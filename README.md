@@ -30,3 +30,4 @@ Next.js 16 frontend development agent that helps you:
 - Build API routes and Server Actions
 - Set up data fetching with proper caching
 - Refactor code following modern patterns
+- Enforce Next.js 16 and React 19 best practices
