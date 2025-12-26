@@ -25,9 +25,8 @@ Deep analysis of the codebase to identify sloppy AI code, like:
 - Unnecessary dependencies in package.json
 
 ### nextjs-dev-agent
-Next.js 16 frontend development with up-to-date patterns:
-- proxy.ts instead of middleware.ts
-- Cache Components with `"use cache"` directive
-- Async request APIs (await cookies/headers/params)
-- React 19.2 features (View Transitions, Activity, useEffectEvent)
-- Tailwind CSS v4 configuration
+Next.js 16 frontend development agent that helps you:
+- Create pages, layouts, and components
+- Build API routes and Server Actions
+- Set up data fetching with proper caching
+- Refactor code following modern patterns
